@@ -1,6 +1,11 @@
 # Get the models before running
 # https://drive.google.com/file/d/19B1fGVMn9-pSBemAbsl62L9tHawrjVe5/view?usp=drivesdk
 # https://drive.google.com/file/d/1-1g6ME8LA8FR2pPbgZ2md5wTr7BjkpM7/view?usp=drivesdk
+from checkers import checkers
+import requests
+import numpy as np
+import pickle
+import tensorflow as tf
 from fastapi import FastAPI, File, UploadFile
 from PyPDF2 import PdfFileReader
 import io
@@ -14,10 +19,9 @@ async def root():
     return {"message": "I am glad you are here, we have some cookies, come here!"}
 
 
-
-
 def analyzePDF(request_object_content):
-    parts=[]
+    parts = []
+
     def visitor_body(text, cm, tm, fontDict, fontSize):
         parts.append(text)
 
@@ -30,12 +34,12 @@ def analyzePDF(request_object_content):
     for i in parts:
         tmp = i.split(" ")
         for j in tmp:
-            if j!= "" and j!="\n":
-                word = ''.join(c for c in j.lower() if (48<=ord(c)<=57 or 97<=ord(c)<=122 or ord(c)==58))
+            if j != "" and j != "\n":
+                word = ''.join(c for c in j.lower() if (
+                    48 <= ord(c) <= 57 or 97 <= ord(c) <= 122 or ord(c) == 58))
                 words.append(word)
-    return [len(pages),words]
+    return [len(pages), words]
 
-from checkers import checkers
 
 @app.post("/contractKeywordChecking")
 async def contract(file: UploadFile):
@@ -47,20 +51,17 @@ async def contract(file: UploadFile):
     return [warning for warning in warnings if warning != "Included"]
 
 
-
 @app.post("/appendToPDF")
 async def contract(file: UploadFile, text: str):
     request_object_content = await file.read()
-    
-import tensorflow as tf
-import pickle
-import numpy as np
+
 with open("word_to_token.pkl", "rb") as f:
     word_to_token = pickle.load(f)
 
 max_length = 170
 model1 = tf.keras.models.load_model('model1.h5')
 model2 = tf.keras.models.load_model('model2.h5')
+
 
 @app.post("/pp")
 def ppML(text):
@@ -74,7 +75,7 @@ def ppML(text):
             except:
                 # print("WWWWW")
                 tmp.append(0)
-        if len(tmp)>=max_length:
+        if len(tmp) >= max_length:
             print("PP")
             print(len(tmp[0:max_length+1]))
             frame.append(tmp[0:max_length+1])
@@ -95,18 +96,20 @@ def ppML(text):
     positive = np.array(model2.predict(np.array(frame)))
     returns = []
     print(text)
-    print(positive,negative)
+    print(positive, negative)
     for i in range(negative.shape[0]):
-        returns.append([text[i], "positive" if positive[i]>0.5 else "negative" if negative[i]>0.5 else "neutral"])
+        returns.append([text[i], "positive" if positive[i] >
+                       0.5 else "negative" if negative[i] > 0.5 else "neutral"])
     return returns
+
 
 async def contract(text: str):
     return ppML(text)
 
-import requests
+
 @app.post("/ppURL")
 async def contract2(url: str):
-    if url==" ":
+    if url == " ":
         url = "https://www.linkedin.com/legal/privacy-policy"
     # From https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/
     res = requests.get(url)
@@ -119,7 +122,7 @@ async def contract2(url: str):
         'header',
         'html',
         'meta',
-        'head', 
+        'head',
         'input',
         'script',
         'style',
@@ -133,8 +136,8 @@ async def contract2(url: str):
 
     for t in text:
         if t.parent.name not in blacklist:
-            output += '{} '.format(t)  
+            output += '{} '.format(t)
 
     # End from
-    
+
     return ppML(output)
