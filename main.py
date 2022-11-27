@@ -52,7 +52,6 @@ with open("word_to_token.pkl", "rb") as f:
 
 max_length = 170
 @app.post("/pp")
-
 async def contract(text: str):
     model1 = tf.keras.models.load_model('model1.h5')
     model2 = tf.keras.models.load_model('model2.h5')
