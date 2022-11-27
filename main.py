@@ -1,3 +1,6 @@
+# Get the models before running
+# https://drive.google.com/file/d/19B1fGVMn9-pSBemAbsl62L9tHawrjVe5/view?usp=drivesdk
+# https://drive.google.com/file/d/1-1g6ME8LA8FR2pPbgZ2md5wTr7BjkpM7/view?usp=drivesdk
 from fastapi import FastAPI, File, UploadFile
 from PyPDF2 import PdfFileReader
 import io
@@ -48,3 +51,36 @@ async def contract(file: UploadFile):
 async def contract(file: UploadFile, text: str):
     request_object_content = await file.read()
     
+import tensorflow as tf
+import pickle
+import numpy as np
+with open("word_to_token.pkl", "rb") as f:
+    word_to_token = pickle.load(f)
+
+max_length = 170
+@app.post("/pp")
+async def contract(text: str):
+    model1 = tf.keras.models.load_model('model1.h5')
+    model2 = tf.keras.models.load_model('model2.h5')
+    text = text.lower().split(". ")
+    frame = []
+    for i in text:
+        tmp = []
+        for j in i.split(" "):
+            try:
+                tmp.append(word_to_token[j])
+            except:
+                print("WWWWW")
+                tmp.append(0)
+        tmp.extend([0]*(max_length+1-len(tmp)))
+        # tmp.extend([0]*(max_length+1-len(i)))
+        frame.append(tmp)
+    print(len(frame[0]))
+    negative = np.array(model1.predict(np.array(frame)))
+    positive = np.array(model2.predict(np.array(frame)))
+    returns = []
+    print(text)
+    print(positive,negative)
+    for i in range(negative.shape[0]):
+        returns.append([text[i], "positive" if positive[i]>0.5 else "negative" if negative[i]>0.5 else "neutral"])
+    return returns
