@@ -41,3 +41,40 @@ async def contract(file: UploadFile):
     warnings = [checker(" ".join(text)) for checker in checkers]
     print(warnings)
     return [warning for warning in warnings if warning != "Included"]
+
+
+
+import tensorflow as tf
+import pickle
+import numpy as np
+with open("word_to_token.pkl", "rb") as f:
+    word_to_token = pickle.load(f)
+
+max_length = 170
+@app.post("/pp")
+
+async def contract(text: str):
+    model1 = tf.keras.models.load_model('model1.h5')
+    model2 = tf.keras.models.load_model('model2.h5')
+    text = text.lower().split(". ")
+    frame = []
+    for i in text:
+        tmp = []
+        for j in i.split(" "):
+            try:
+                tmp.append(word_to_token[j])
+            except:
+                print("WWWWW")
+                tmp.append(0)
+        tmp.extend([0]*(max_length+1-len(tmp)))
+        # tmp.extend([0]*(max_length+1-len(i)))
+        frame.append(tmp)
+    print(len(frame[0]))
+    negative = np.array(model1.predict(np.array(frame)))
+    positive = np.array(model2.predict(np.array(frame)))
+    returns = []
+    print(text)
+    print(positive,negative)
+    for i in range(negative.shape[0]):
+        returns.append([text[i], "positive" if positive[i]>0.5 else "negative" if negative[i]>0.5 else "neutral"])
+    return returns
