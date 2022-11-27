@@ -41,3 +41,10 @@ async def contract(file: UploadFile):
     warnings = [checker(" ".join(text)) for checker in checkers]
     print(warnings)
     return [warning for warning in warnings if warning != "Included"]
+
+
+
+@app.post("/appendToPDF")
+async def contract(file: UploadFile, text: str):
+    request_object_content = await file.read()
+    
