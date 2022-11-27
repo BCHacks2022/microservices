@@ -122,6 +122,10 @@ async def contract2(url: str):
         'head', 
         'input',
         'script',
+        'style',
+        'h1',
+        'h2',
+        'h3'
         # there may be more elements you don't want, such as "style", etc.
     ]
 
