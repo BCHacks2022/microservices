@@ -1,0 +1,674 @@
+Major League Hacking, Inc ("MLH", "us" or "we") respects the privacy of the parties visiting its Website, the home page of which is located at http://www.mlh.io. The home page and accompanying pages will collectively be known as "Website". This Privacy Policy is intended to educate you on our policies and practices regarding the collection, use and disclosure of any Personal Information (defined below) and Anonymous Information (defined below) you submit to us or we collect through our Website. Unless otherwise defined herein, capitalized terms shall have the definitions assigned to such terms set forth in the MLH Terms and Conditions that you can find at Terms and Conditions and which incorporate this Privacy Policy "Personal Information" is information about you that is personally identifiable to you, like your name, address, email address, or phone number, as well as other non-public information that is associated with the foregoing. “Anonymous Information” is information that is not associated with or linked to your Personal Information; Anonymous Information does not allow the identification of individual persons. We collect and use Personal Information and Anonymous Information as indicated in this Privacy Policy.
+
+User Consent
+When you submit any Personal Information through our Website, you agree to the terms of this Privacy Policy and you expressly consent to the treatment of your Personal Information defined in this Privacy Policy.
+
+Information Collected
+We may collect Personal Information that you submit to us voluntarily through our Website or submitted to an event organizer at one of our Sanctioned MLH Events. We collect this information when you register, create and edit a profile, answer survey questions, enter contests, use certain features on the site, or submit information to an event organizer at one of our Sanctioned MLH Events. The types of information you can choose to provide on our site may include, without limitation,:
+
+Name, username, password, email address, and contact information.
+Billing and shipping addresses, credit card number, and expiration date.
+We or our third party service providers may also gather information relating to your devices, including: device model, operating system, browser type, unique device identifier, IP address, mobile phone number, mobile network carrier, location, and event information (such as application installations).
+Other Personal Information you choose to provide such as your preferences, etc.
+Use of Information
+We may use your Personal Information for the following general purposes:
+
+To fulfill or respond to your inquiries.
+To address administrative needs and communications.
+To improve our products and services.
+To contact you for internal business purposes.
+To provide you with newsletters, surveys, promotions, and notices on changes and upgrades to our products and services.
+Marketing communications from third parties at your request.
+We use Anonymous Information such as web or mobile pages you have viewed, in order to analyze request and usage patterns so that we may improve our products and services, enhance our user experience, and gather broad demographic information for aggregate use. Anonymous Information consists of data that would not identify you personally; these records exclude information (such as your name) that makes them personally identifiable to you. We may disclose Anonymous Information to third parties that promote our products and services. MLH reserves the right to use and disclose Anonymous Information to third parties in its discretion.
+
+Information Sharing
+Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties and we will not disclose financial information that is part of your Personal Information unless you request or authorize that we do so. If you provide Personal Information for a certain reason, we may use the Personal Information in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Information you provide to answer your question or resolve your problem and will respond to the email address from which the contact came.
+
+MLH may disclose Personal Information to its corporate subsidiaries or entities affiliated with MLH. Any Personal Information provided to MLH's subsidiaries or entities affiliated with MLH will be treated by those subsidiaries and affiliated entities in accordance with the terms of this Privacy Policy.
+
+We may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website such as MLH Member Event organizers (“Event Organizers”). We make no representations or warranties as to how such Event Organizers will use your Personal Information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers (for example, without limitation, individuals providing support services to MLH Events Mailchimp, targeted advertising through facebook, twitter, etc) for the sole purpose of providing products and services to you.
+
+We may participate in co-branding or co-promotional agreements with third parties pursuant to which we may share Personal Information with such third parties ("Partner Companies"). For example, we may participate in agreements with Partner Companies pursuant to which we provide the Partner Companies with a URL and a customer registration page co-branded with, or private labeled by, the Partner Companies, and the Partner Companies distributes and promotes the URL to its customers. A Partner Company may have access to Personal Information that we collect from their customers. As a result, if you register on the Website through a Partner Company, we may provide your Personal Information to the Partner Company. We do not control the privacy practices of these Partner Companies.
+
+We may participate in co-branding or co-promotional agreements with third parties pursuant to which we may share Personal We may offer you the chance to participate in drawings, contests, giveaways, and promotions ("Special Promotions") through our Web site. By registering for a Special Promotion, you agree to the official rules that govern that Special Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Special Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Special Promotion. If you choose to enter a drawing, contest or other promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such Special Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Special Promotion’s official rules, such as on a winners list.
+
+MLH may use your Personal Information in order to provide to third parties non-personal aggregated information about you that does not allow you to be identified or contacted and that is combined with the Personal Information of other users ("Aggregate Information"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a company that performs services or that provides products and/or services to MLH (that may or may not be a MLH business partner or an advertiser on our site) that "50% of our users live in the USA" or that "85% of our users have purchased products and/or services which can be downloaded from MLH's Web site." Depending on the circumstances, we may or may not charge third parties for this Aggregate Information. We may not limit the third parties' use of the Aggregate Information.
+
+If another company acquires our company or our assets, that company will possess the Personal Information we have collected and that company will assume the rights and obligations regarding your Personal Information as indicated in this Privacy Policy.
+
+Under the following scenarios, we may be required to share your Personal Information:
+
+If we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving possible threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law.
+If we respond to subpoenas, court orders or legal process, or if we need to establish or exercise our legal rights or defend against legal claims.
+If we believe it is necessary to restrict or inhibit any user from using any of our Websites, including, without limitation, by means of "hacking" or defacing any portion thereof.
+Opt-Out
+You have options regarding the collection, use and sharing of your Personal Information. When you receive promotional communications from us, you may specify a preference to stop receiving further communications from us and you will have the chance to "opt-out" by following the unsubscribe instructions indicated in the communication you receive. Despite your selected preferences, we may send you communications regarding the services we provide to you, such as notices about administrative updates, transaction reports, notices of new Website releases, and notices regarding changes to the Website, updates to our Privacy Policy, Terms of Use, or other policies.
+
+You may make changes to any of the Personal Information in your account by editing your online profile.
+
+California Privacy Rights
+As provided by California Civil Code 1798.83, if you are a California resident, you have the right to receive (a) information identifying any third party company(ies) to whom we have disclosed your Personal Information to in the past year; and (b) a description of the categories of Personal Information disclosed. To obtain such information, please email your request to hi@mlh.io with [California Privacy Rights Request] in the subject line.
+
+Children’s Information
+To use the Site, you must be, and represent and warrant that you are, of legal age (13 years of age or older) and competence. If you are between 13 and 18 years of age, you must have your parent or legal guardian’s permission to use the Site. You must not access the Site or accept these Terms if you are a person who is either barred or otherwise legally prohibited from receiving or using the Service or any Products under the laws of the country in which you are resident or from which you access or use the Site. By using the Site on behalf of any third party, you are representing to us that you are an authorized representative of that third party and that your use of the Site constitutes that third party’s acceptance of these Terms. In addition, if you have been previously prohibited from accessing the Site or the website of any of our affiliates, you are not permitted to access the Site. While using the site, you agree to abide by the MLH Code of Conduct which can be found at http://mlh.io/code-of-conduct.
+
+Other Websites
+Our provision of a link to any other website or location is for your convenience and does not indicate our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
+
+Cookies and Similar Technologies
+We may use pixel tags, cookies, and/or other similar technologies to collect visitor information.
+
+Cookies, for example, are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They make it possible for us to save the items in your shopping cart until you are ready to check out, recognize your browser when you visit, and provide you with information about products that interest you. By doing this, we can customize your return visits and save you time during checkout. It is possible to deactivate cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
+
+Security
+Your account is password protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password, and limiting access to your computer, phone and browser by taking precautions such as signing off after you have finished accessing your account. We use industry standard measures to protect Personal Information. However, we cannot guarantee the security of account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+Updates to Privacy Policy
+We may modify this Privacy Policy from time to time by posting updates on this page. Please check back regularly to view any updates.
+
+This Privacy Policy was last updated on June 30, 2021.
+
+Contact Us
+Should you have any questions, concerns or feedback regarding this Privacy Policy, please contact us by email at: hi@mlh.io.
+
+
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
+Data Policy
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Meta Platforms, Inc. (Meta Products or Products). You can find additional tools and information in the Facebook Settings and Instagram Settings.
+I. What kinds of information do we collect?
+To provide the Meta Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the Facebook Settings and Instagram Settings.
+Things you and others do and provide.
+Information and content you provide. We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our camera, so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you share.
+Data with special protections: You can choose to provide information in your Facebook profile fields or Life Events about your religious views, political views, who you are "interested in," or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country.
+Networks and connections. We collect information about the people, accounts, hashtags and Facebook groups, and Pages you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of. We also collect contact information if you choose to upload, sync or import it from a device (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below.
+Your usage. We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
+Information about transactions made on our Products. If you use our Products for purchases or other financial transactions (such as when you make a purchase in a game or make a donation), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
+Things others do and information they provide about you. We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
+
+Device Information
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.
+Information we obtain from these devices includes:
+Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Meta Company Products associated with the same device or account).
+Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you stream a video from your phone to your TV.
+Cookie data: data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the Facebook Cookies Policy and Instagram Cookies Policy.
+
+Information from partners.
+Advertisers, app developers, and publishers can send us information through Meta Business Tools they use, including our social plug-ins (such as the Like button), Facebook Login, our APIs and SDKs, or the Meta pixel. These partners provide information about your activities off of our Products—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have an account or are logged into our Products. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.
+Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. Learn more about the types of partners we receive data from.
+To learn more about how we use cookies in connection with Meta Business Tools, review the Facebook Cookies Policy and Instagram Cookies Policy.
+
+
+II. How do we use this information?
+We use the information we have (subject to choices you make) as described below and to provide and support the Meta Products and related services described in the Meta Terms and Instagram Terms. Here's how:
+Provide, personalize and improve our Products.
+We use the information we have to deliver our Products, including to personalize features and content (including your ads, Facebook News Feed, Instagram Feed, and Instagram Stories) and make suggestions for you (such as groups or events you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalize your Facebook and Instagram experience, including features, content and recommendations in Meta Products; you can also learn more about how we choose the ads that you see.
+Information across Meta Products and devices: We connect information about your activities on different Meta Products and devices to provide a more tailored and consistent experience on all Meta Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Meta Product when you sign up for an account on a different Product.
+Location-related information: We use location-related information-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, including ads, for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Meta Products (such as check-ins or events you attend).
+Product research and development: We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
+Ads and other sponsored content: We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we select and personalize ads, and your choices over the data we use to select ads and other sponsored content for you in the Facebook Settings and Instagram Settings.
+
+Provide measurement, analytics, and other business services.
+We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners.
+
+Promote safety, integrity and security.
+We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Meta Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to detect when someone needs help. To learn more, visit the Facebook Security Help Center and Instagram Security Tips.
+
+Communicate with you.
+We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us.
+
+Research and innovate for social good.
+We use the information we have (including from research partners we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, we analyze information we have about migration patterns during crises to aid relief efforts. Learn more about our research programs.
+
+
+III. How is this information shared?
+Your information is shared with others in the following ways:
+Sharing on Meta Products
+People and accounts you share and communicate with
+When you share and communicate using our Products, you choose the audience for what you share. For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories.
+Public information can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your public profile on Facebook; and content you share on a Facebook Page, public Instagram account or any other public forum, such as Facebook Marketplace. You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Meta Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products.
+Learn more about what information is public and how to control your visibility on Facebook and Instagram.
+Content others share or reshare about you
+You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as Horizon Worlds. Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later.
+People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to report the content.
+Information about your active status or presence on our Products.
+People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on Instagram, Messenger or Facebook, or when you last used our Products.
+Apps, websites, and third-party integrations on or using our Products.
+When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your public profile on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you.
+Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval.
+New owner.
+If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner.
+
+Sharing with Third-Party Partners
+We work with third-party partners who help us provide and improve our Products or who use Meta Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with:
+Partners who use our analytics services.
+We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Facebook Pages, videos and other content on and off the Meta Products. For example, Facebook Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their account or Facebook Page.
+Advertisers.
+We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which ads led you to make a purchase or take an action with an advertiser.
+Measurement partners.
+We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners.
+Partners offering goods and services in our Products.
+When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details.
+Vendors and service providers.
+We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys.
+Researchers and academics.
+We also provide information and content to research partners and academics to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+Law enforcement or legal requests.
+We share information with law enforcement or in response to legal requests in the circumstances outlined below.
+Learn more about how you can control the information about you that you or others share with third-party partners in the Facebook Settings and Instagram Settings.
+
+
+IV. How do the Meta Companies work together?
+Facebook and Instagram share infrastructure, systems and technology with other Meta Companies (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all Meta Company Products you use. We also process information about you across the Meta Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Meta Company Products, such as understanding the number of unique users on different Meta Company Products.
+
+
+V. How can I manage or delete information about me?
+We provide you with the ability to access, rectify, port and erase your data. Learn more in your Facebook Settings and Instagram Settings.
+We store data until it is no longer necessary to provide our services and Meta Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after review, unless otherwise stated. Learn more about deletion of content you have shared and cookie data obtained through social plugins.
+When you delete your account, we delete things you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the Facebook Settings and Instagram Settings.
+
+
+VI. How do we respond to legal requests or prevent harm?
+We access, preserve and share your information with regulators, law enforcement or others:
+In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
+Information we receive about you (including financial transaction data related to purchases made on our Products) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations.
+
+
+VII. How do we operate and transfer data as part of our global services?
+We share information globally, both internally within the Meta Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the Meta Terms and Instagram Terms and to globally operate and provide our Products to you. We utilize standard contract clauses, rely on the European Commission's adequacy decisions about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries.
+
+
+VIII. How will we notify you of changes to this policy?
+We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products.
+
+
+IX. How to contact us with questions
+You can learn more about how privacy works on Facebook and on Instagram. If you have questions about this policy, you can contact us as described below.
+You can contact us online or by mail at:
+
+
+
+Snap Inc. is a camera company. Our products and services — including Snapchat, Bitmoji, Spectacles, advertising, commerce, and others that link to this Privacy Policy — provide fast and fun ways to express yourself, live in the moment, learn about the world, and have fun together!
+
+When you use these services, you’ll share some information with us. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information.
+
+That’s why we’ve written this Privacy Policy. And it’s why we’ve tried to write it in a way that’s easy to understand for all our users and blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our Privacy Policy, just contact us.
+
+You should read our entire Privacy Policy, but when you only have a few minutes or want to remember something later on, you can always take a look at this overview and video. We also encourage you to check out the rest of our Privacy Center. We designed it to give you easy-to-digest summaries of our privacy practices. For example, our Privacy by Product page provides a breakdown of specific privacy features for our products.
+
+Information We Collect
+There are three basic categories of information we collect:
+
+Information you provide.
+
+Information we get when you use our services.
+
+Information we get from third parties.
+
+Here’s a little more detail on each of these categories.
+
+Information You Provide
+When you interact with our services, we collect information that you provide to us. For example, many of our services require you to set up an account, so we may need to collect a few important details about you, such as your name, username, password, email address, phone number, and date of birth. We may also ask you to provide us with some additional information that will be publicly visible on our services, such as a profile picture or Bitmoji avatar. Some services, such as commerce products, may require you to provide us with a debit or credit card number and its associated account information.
+
+Of course, you’ll also provide us whatever information you send through our services, such as Snaps and Chats. Keep in mind that the users who view your Snaps, Chats, and any other content can always save that content or copy it outside the app. So, the same common sense that applies to the internet at large applies to our services as well: Don’t send messages or share content that you wouldn’t want someone to save or share.
+
+When you contact customer support or communicate with us in any other way, we’ll collect whatever information you volunteer or that we need to resolve your question.
+
+Information We Get When You Use Our Services
+When you use our services, we collect information about which of those services you’ve used and how you’ve used them. We might know, for instance, that you watched a particular Story, saw a specific ad for a certain period of time, and sent a few Snaps. Here’s a fuller explanation of the types of information we collect when you use our services:
+
+Usage Information. We collect information about your activity through our services. For example, we may collect information about:
+
+how you interact with our services, such as which Filters or Lenses you view or apply to Snaps, which Stories you watch on Discover, whether you’re using Spectacles, or which search queries you submit.
+
+how you communicate with other Snapchatters, such as their names, the time and date of your communications, the number of messages you exchange with your friends, which friends you exchange messages with the most, and your interactions with messages (such as when you open a message or capture a screenshot).
+
+Content Information. We collect content you create on our services, such as custom stickers, and information about the content you create or provide, such as if the recipient has viewed the content and the metadata that is provided with the content.
+
+Device Information. We collect information from and about the devices you use. For example, we collect:
+
+information about your hardware and software, such as the hardware model, operating system version, device memory, advertising identifiers, unique application identifiers, apps installed, unique device identifiers, device usage data, browser type, keyboards installed, language, battery level, and time zone;
+
+information from device sensors, such as accelerometers, gyroscopes, compasses, microphones, and whether you have headphones connected; and
+
+information about your wireless and mobile network connections, such as mobile phone number, service provider, IP address, and signal strength.
+
+Device Phonebook. Because our services are all about communicating with friends, we may — with your permission — collect information from your device’s phonebook.
+
+Camera, Photos, and Audio. Many of our services require us to collect images and other information from your device’s camera and photos. For example, you won’t be able to send Snaps or upload photos from your camera roll unless we can access your camera or photos.
+
+Location Information. When you use our services we may collect information about your location. With your permission, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
+
+Information Collected by Cookies and Other Technologies. Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. For example, we may use information collected on other websites to show you more relevant ads. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. To learn more about how we and our partners use cookies on our services and your choices, please check out our Cookie Policy.
+
+Log Information. We also collect log information when you use our website, such as:
+
+details about how you’ve used our services;
+
+device information, such as your web browser type and language;
+
+access times;
+
+pages viewed;
+
+IP address;
+
+identifiers associated with cookies or other technologies that may uniquely identify your device or browser; and
+
+pages you visited before or after navigating to our website.
+
+Information We Collect from Third Parties
+We may collect information about you from other users, our affiliates, and third parties. Here are a few examples:
+
+If you link your Snapchat account to another service (like Bitmoji or a third-party app), we may receive information from the other service, like how you use that service.
+
+Advertisers, app developers, publishers, and other third parties may share information with us as well. We may use this information, among other ways, to help target or measure the performance of ads. You can learn more about our use of this kind of third-party data in our Support Center.
+
+If another user uploads their contact list, we may combine information from that user’s contact list with other information we have collected about you.
+
+How We Use Information
+What do we do with the information we collect? For the detailed answer, go here. The short answer is: Provide you with an amazing set of products and services that we relentlessly improve. Here are the ways we do that:
+
+develop, operate, improve, deliver, maintain, and protect our products and services.
+
+send you communications, including by email or SMS where permitted. For example, we may use email or SMS to respond to support inquiries or to share information about our products, services, and promotional offers that we think may interest you.
+
+monitor and analyze trends and usage.
+
+personalize our services by, among other things, suggesting friends, profile information, or Bitmoji stickers, helping Snapchatters find each other in Snapchat, affiliate and third-party apps and services, or customizing the content we show you, including ads.
+
+add context to your Snapchat experience, for example by tagging your Memories with searchable labels based on your location (of course, if you’ve given us permission to collect your location) and the content of your photo or video (e.g., if there’s a dog in your photo, it may be searchable in Memories by the term “dog”).
+
+provide and improve our advertising services, ad targeting, and ad measurement, including through the use of your precise location information (again, if you’ve given us permission to collect that information), both on and off our services. We may also store information about your use of third-party apps and websites on your device to do this. Learn more. See the Control Over Your Information section below for more information about Snap Inc.’s advertising practices and your choices.
+
+enhance the safety and security of our products and services.
+
+verify your identity and prevent fraud or other unauthorized or illegal activity.
+
+use information we’ve collected from cookies and other technology to enhance our services and your experience with them.
+
+enforce, investigate, and report conduct violating our Terms of Service and other usage policies, respond to requests from law enforcement, and comply with legal requirements.
+
+We may also use information from Apple’s TrueDepth camera to improve the quality of Lenses. Information from the TrueDepth camera is used in real time — we don’t store this information on our servers or share it with third parties.
+
+How We Share Information
+We may share information about you in the following ways:
+
+With other Snapchatters. We may share the following information with other Snapchatters:
+
+information about you, such as your username, name, and Bitmoji.
+
+information about how you have interacted with our services, such as your Snapchat “score,” the names of Snapchatters you are friends with, how close you are with your friends on Snapchat, your recent location history (if you choose to share your location on Snap Map), and other information that will help Snapchatters understand your connections with others using our services. For example, because it may not be clear whether a new friend request comes from someone you actually know, we may share whether you and the requestor have Snapchat friends in common.
+
+information about your device, such as the operating system and device type, to help you receive Chats, Snaps, and other content in the optimal viewing format.
+
+any additional information you have directed us to share. For example, Snap will share your information when you connect your Snapchat account to a third-party app, and if you share information or content from Snapchat to the third-party app.
+
+content you post or send. How widely your content is shared depends on your personal settings and the type of service you are using. For example, a Snap may be sent to just a single friend you select, but your My Story content may be seen by any Snapchatter whom you allow to see your My Story.
+
+With all Snapchatters, our business partners, and the general public. We may share the following information with all Snapchatters as well as with our business partners and the general public:
+
+public information like your name, username, profile pictures, Snapcode, and Public Profile.
+
+Public Content like your Highlights, Custom Stickers, Lenses, Story submissions that are set to be viewable by Everyone, and any content that you submit to an inherently public service, like Spotlight, Snap Map, and other crowd-sourced services. This content may be viewed, used, and shared by the public at large both on and off our services, including through search results, on websites, in apps, and in online and offline broadcasts.
+
+With our affiliates. We may share information with entities within the Snap Inc. family of companies.
+
+With third parties. We may share information with third parties in the following ways:
+
+We may share information about you with service providers who perform services on our behalf, including to facilitate payments and measure and optimize the performance of ads and deliver more relevant ads, including on third-party websites and apps.
+
+We may share information about you with business partners that provide services and functionality on our services. For more information about information collected by third parties on our services, visit our Support Site.
+
+We may share information about you, such as device and usage information, to help us and others prevent fraud.
+
+We may share information about you for legal, safety, and security reasons. We may share information about you if we reasonably believe that disclosing the information is needed to:
+
+comply with any valid legal process, governmental request, or applicable law, rule, or regulation.
+
+investigate, remedy, or enforce potential Terms of Service and Community Guidelines violations.
+
+protect the rights, property, or safety of us, our users, or others.
+
+detect and resolve any fraud or security concerns.
+
+We may share information about you as part of a merger or acquisition. If Snap Inc. gets involved in a merger, asset sale, financing, liquidation or bankruptcy, or acquisition of all or some portion of our business to another company, we may share your information with that company before and after the transaction closes.
+
+Non-personal information. We may also share with third parties that provide services to us or perform business purposes for us aggregated, non-personally identifiable, or de-identified information.
+
+Third-Party Content and Integrations
+Our services may contain third-party content and integrations. Examples include third-party integrations in the Camera, third-party games in Chat, and third-party Snap Kit integrations. Through these integrations, you may be providing information to the third party as well as to Snap. We are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party service that you visit or use, including those third parties you interact with through our services. You can learn more about third-party services in Snapchat here.
+
+How Long We Keep Your Information
+Snapchat lets you capture what it’s like to live in the moment. On our end, that means most messages — like Snaps and Chats — sent in Snapchat will be automatically deleted by default from our servers after we detect they’ve been opened by all recipients or have expired. Other content, like Story posts, are stored for longer. For detailed information about how long we store different types of content, check out our Support Site.
+
+We store other information for longer periods of time. For example:
+
+We store your basic account information — like your name, phone number, and email address — and list of friends until you ask us to delete them.
+
+We store location information for different lengths of time based on how precise it is and which services you use. If location information is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap. Pro tip: You can see the location data we retain about you by downloading your data.
+
+If you ever decide to stop using Snapchat, you can just ask us to delete your account. We’ll also delete most of the information we’ve collected about you after you’ve been inactive for a while!
+
+Keep in mind that, while our systems are designed to carry out our deletion practices automatically, we cannot promise that deletion will occur within a specific timeframe. There may be legal requirements to store your data and we may need to suspend those deletion practices if we receive valid legal process asking us to preserve content, if we receive reports of abuse or other Terms of Service violations, or if your account, content created by you, or content created with other users is flagged by others or our systems for abuse or other Terms of Service violations. Finally, we may also retain certain information in backup for a limited period of time or as required by law.
+
+Control Over Your Information
+We want you to be in control of your information, so we provide you with the following tools.
+
+Access, Correction, and Portability. You can access and edit most of your basic account information right in our apps. You can also use Download My Data to obtain a copy of information that isn’t available in our apps in a portable format, so you can move it or store it wherever you want. Because your privacy is important to us, we will ask you to verify your identity or provide additional information before we let you access or update your personal information. We may also reject your request to access or update your personal information for a number of reasons, including, for example, if the request risks the privacy of other users or is unlawful.
+
+Revoking permissions. In most cases, if you let us use your information, you can simply revoke your permission by changing the settings in the app or on your device if your device offers those options. Of course, if you do that, certain services may lose full functionality. For promotional emails and SMS, you may opt out by clicking on the unsubscribe link or similar mechanism as provided.
+
+Deletion. While we hope you’ll remain a lifelong Snapchatter, if for some reason you ever want to delete your account, just go here to learn how. You can also delete some information in the app, like photos you’ve saved to Memories, Spotlight submissions, and search history.
+
+Advertising Preferences. We try to show you ads that we think will be relevant to your interests. If you would like to modify the information we and our advertising partners use to select these ads, you can do so in the app and through your device preferences. Go here to learn more.
+
+Tracking. If you opt out of tracking on devices running iOS 14.5 or more recent versions, we will not link identifiable information from third-party apps and websites with identifiable information from Snapchat for advertising purposes, except on your device. You can control use of this on-device data for advertising by opting out of Activity-Based Advertising in Snapchat Ad Preferences Settings. Go here to learn more.
+
+Communicating with other Snapchatters. It’s important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in Settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends or all Snapchatters, and whether you’d like to block another Snapchatter from contacting you again. Go here to learn more.
+
+International Data Transfers
+We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place. We also make sure any third parties we share information with have an adequate transfer mechanism in place, as well. You can find more information on the categories of third parties we share information with here.
+
+State and Region Specific Information
+You may have specific privacy rights in your state or region. For example, in the United States, residents of California and other states have specific privacy rights. Snapchatters in the European Economic Area (EEA), the UK, Brazil, the Republic of Korea, and other jurisdictions also have specific rights. We keep an up-to-date overview of state and region specific disclosures here.
+
+Children
+Our services are not intended for — and we don’t direct them to — anyone under 13. And that’s why we do not knowingly collect personal information from anyone under 13. In addition, we may limit how we collect, use, and store some of the information of EEA and UK users between 13 and 16. In some cases, this means we will be unable to provide certain functionality to these users. If we need to rely on consent as a legal basis for processing your information and your country requires consent from a parent, we may require your parent’s consent before we collect and use that information.
+
+Revisions to the Privacy Policy
+We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification).
+
+
+1. Introduction
+ResearchGate GmbH, Chausseestraße 20, 10115 Berlin, Germany ("ResearchGate", "we", "us", or "our") provides the services rendered to you through the ResearchGate website available at https://www.researchgate.net, and through any of its web pages and associated applications which may be available on multiple devices, including mobile applications ("Service").
+This Privacy Policy sets forth the collection and use practices of ResearchGate for personal data we process in the course of providing the Service.
+Our mission is to connect the world of science and make research open to all. Connections can only be established when potential connections and commonalities are known and connecting lines can be drawn. Openness can only be achieved with comprehensive accessibility. Our Service takes your work and activities on the Service into account to help connect you with other individuals who are relevant to you and recommend relevant content. We also gather information from external sources, in order to disseminate as much relevant scientific content as possible to drive science forward. Any natural or legal person who, as a recipient of the Service, accesses or uses the Service for any purpose is a User ("User", "you"). Our registered Users ("Members") can share their professional identities and credentials, display their academic publications, engage and collaborate with their networks, exchange knowledge and professional insights, post and view relevant content, and discover business and career opportunities. Some content is also visible to unregistered or logged-out Users ("Visitors"). A User could be a Member or a Visitor. An Author ("Author") is a natural person who, for the purpose of our Service, is a member of the scientific community by, for example, being an author/editor of a publication, or being an advisor or recipient of scientific funding. An Author is not necessarily a User or Member of our Service.
+ResearchGate reserves the right to modify this Privacy Policy at any time, in particular, to reflect changes in market conditions affecting ResearchGate’s activities, changes in technology, changes in relevant laws and regulatory requirements, and changes in ResearchGate’s system capabilities. If we make material changes to this Privacy Policy, we may notify Members by email or other reasonable means, including through notifications on our Service. If you object to any new version, you should stop using our Service and/or close your account. If you continue to use our Service after having been provided with such notice you will be deemed to have acknowledged the Privacy Policy.
+2. Information we process and how we process it
+Basic data processed
+Certain data will be processed when you access the Service, to resolve the technical request of your device, display the site and maintain the safety and security of our systems. This data is stored in so-called logs and comprise the following:
+IP addresses and your mobile device's Identifier for Advertising (IDFA);
+the type of computer or mobile device you are using including operating system and version;
+the types of browser you are using, the language, and your country;
+referring and exit pages and URLs;
+platform type;
+the number of clicks on a page or feature, pages viewed and the order of those pages, the amount of time spent on particular pages or parts of pages;
+domain names and;
+information collected for performance purposes (e.g. average load, render time of pages, etc.).
+Even though IP addresses and mobile identifiers are generally considered personal data, we can not derive any direct conclusions about your identity from such data.
+Our legal basis for processing this personal data is Article 6 (1)(f) of the General Data Protection Regulation (GDPR). The data processed is very basic data, and does not contain directly identifiable information about you. We have a legitimate interest in being able to provide a functioning, reliable and accessible website and resolve your server-request in an appropriate manner.
+All of our pages are secured using SSL (Secure Socket Layer) technology, which encrypts data transmitted between our servers and your end devices. We also apply other suitable technical and organizational measures to protect your personal data.
+Personal data we process
+In order to provide you with functionalities, we need to process certain data and/or information relating to you:
+Registration and maintenance of your Member account
+If you choose to create a Member account on our Service, you will be required, during the registration process, to provide your first and last name, an email address, and a password. You will receive a confirmation email. Your Member account will be confirmed after you have clicked on the respective link in the account activation email. You may also be invited to associate certain information we present to you with your account, such as articles, institutional affiliation, and biographical information.
+Other personal data
+During the registration process or when updating your profile, you can choose to provide other information that can be used to identify and/or contact you, including for example, a profile picture, your Twitter account handle or your city of residence. You may also be invited or required to provide information about you, including, for example, demographic information, such as occupation, and research vita, education, authorship of articles, academic or research expertise or interests, conferences you have attended, groups of which you are a member, information regarding your professional and academic career, academic degree, your previous roles and jobs, and current activities and interests.
+Third-party connectors
+You can choose to create an account using your Facebook, LinkedIn or Google account and subsequently use that third-party platform’s credentials to log in to your ResearchGate account. Using this option means that you are allowing ResearchGate to request and use certain data from the third-party account. For Google, this involves us processing your email address. For LinkedIn, we will process your email address, first and last name, and profile picture. For Facebook, we will process your email address and public profile information. The third-party platform might ask for your consent to share this data with ResearchGate. As the personal data we might process was originally collected by the third-party platform, the initial data processing and sharing of the data with ResearchGate are governed by the privacy policy of such third-party platform. Please refer to the relevant third-party platform and/or its settings, if you want to deactivate the connection between ResearchGate and the third-party platform.
+Communications with us
+When you communicate with us, you may provide us with your name, contact details, and other personal data as part of your communication, as well as the content of your message itself. Similarly, when we communicate with you, we will process your personal information, such as your email address. For some of our emails, we also process information indicating whether you have opened the email.
+Communications through the Service
+Many communications that you initiate through our Service (e.g. invitation sent to a non-Member) will list your name in the header of the message. Other communications that you initiate through the Service, like a request for a full-text, will list your name as the initiator but will not include your personal email address. Once you have mutually connected with an individual, contact information you choose to include in your researcher profile will be accessible by that individual.
+Recommendations
+In order to provide our recommendation features, we process contact and bibliographical data, information pertaining to your work, usage frequency, type of devices you use to use the Service, including browser, operating system and mobile device, research items you consulted, interaction with particular pages or parts of pages, and number of clicks on a page or feature, in order to provide the Service in a way that is tailored to your interests. Also, based on the personal data you provide, statistical evaluations, mathematical operations, and predictions, we may infer other information about you and support our recommendation features. For example, if you were to add several research items to the Service over the course of several years, we may infer that you are not a junior researcher anymore.
+Third-party providers
+When you choose to benefit from a service or offer presented by ResearchGate on behalf of a third party, you may share personal data with ResearchGate to enable us to pass it on to the third party. The nature of personal data will depend on the particular service or offer, but might include your name, email address and affiliation. We do not share any of this personal data with any third party unless you explicitly allow us to do so.
+Paid Products and payment data
+If you choose to purchase a product, service or subscription from ResearchGate that is subject to a fee (“Paid Product”), there are two alternatives regarding processing of personal data. Either we will process the personal data to complete your order, or our Merchant of Record (“MoR”) will. If, for a Paid Product, our MoR conducts the ordering flow and processes personal data, we will clearly indicate this prior to starting the ordering process and within the ordering process itself. In each case:
+If ResearchGate is conducting the order: we will process the personal data that you provide in order to complete your order, such as your billing address. ResearchGate does not process any credit card information, however we do retain your name and address so we may generate and send you an invoice. Credit card information is collected and processed by a third-party provider, namely Stripe. Stripe processes this data as an independent controller to process the payment. For details about the data processing undertaken by Stripe, please see its Privacy Policy.
+If our MoR is conducting the order: where we are using the services of a MoR, the ordering process is hosted and conducted by that third party, who is reselling the Paid Product to you, having it licensed it from us. The MoR will process any personal data required to complete the order. Payment data such as credit card information will not be processed by the MoR, as they will are use independent payment service providers. To be able to associate your Member account with the Paid Product purchased, provide support and ensure a frictionless user experience within the ordering flow, we will share your primary email address associated with your account (and subsequent updates to it) with our MoR. Our MoR will send us a signal after you have successfully purchased the Paid Product, so that we can associate your purchase with your account and grant access to the Paid Product. Our current MoR is “Paddle” (“Paddle” means, if you are purchasing a Subscription from the United States, Paddle.com Inc, whose office is at 3811 Ditmars Blvd #1071 Astoria NY 11105-1803; and otherwise, for the rest of the world, Paddle.com Market Limited, incorporated in England and Wales with Company number 8172165, whose office is at 15 Briery Close, Great Oakley, Corby, Northamptonshire, NN18 8JG, United Kingdom). Please refer to Paddle’s Privacy Policy for further information.
+Security
+We process the number of profile pages users view to detect and prevent data harvesting. We also process your IP address to filter out suspicious requests. If you are a Member, we store your full IP address in connection with your account registration request and your current last login. Otherwise, your login activities are only stored in connection with your truncated IP addresses. Also, we process information about your device, its operating system and the browser you are using for your current session.
+Statistics
+We use activity data, such as number of read publications, projects and number of citations, to generate statistics, which pertain to reading behavior or achievements. For example, we may use such activity data in order to calculate and display a read count on an individual publication page.
+3. How we use data we collect about you
+The following explanations will provide you with information about how we use the personal data that we collect about you, and our legal basis for doing so under the GDPR. Generally speaking, we may, pursuant to Art. 6(1)(f) GDPR use your data based on our legitimate interests.
+to provide and improve our Service;
+to perform internal quality checks;
+to prevent, detect, process and investigate malfunctions, incidents, fraudulent or other illegal activities, or mitigate the risk of occurrence of the aforementioned events;
+to ensure network and information security;
+to create statistics on access channels and the use of our Service;
+to contact you, if requested by you or if necessary to fulfil the contract or permitted by law;
+to enforce obligations owed to us, and contractual terms and conditions; and
+for accounting, risk management and record keeping purposes.
+Also, pursuant to Art. 6(1)(c) GDPR we may use your data to comply with legal obligations, e.g. to observe retention periods required by trade or tax law or to comply with obligations to disclose data based on a legally binding court decision or official order.
+More specifically, we may use your data for the following purposes.
+ResearchGate account
+The personal data you provide in connection with registering for your Member account will be used to create, maintain, and secure your account. By creating a Member account, you will benefit from functionalities and services that are not available to Visitors. Any personal data you provide in addition to the required data to register for an account, will facilitate your ability to get into contact with other Members, promote yourself and your research, and receive more relevant recommendations from our recommendation services. Your ResearchGate account is generally visible to every other Member, but you can determine the level of detail you want to share with other Members, e.g. in your Privacy settings and by choosing how much information you add to your profile. Your account can also be found by other Members using our search functionalities and may be recommended to them via our recommendation features. Your choices regarding the details you want to share with other Members will also be respected in such features. You can also determine whether your account is publicly visible to Visitors (and therefore subject to being indexed by search engines). In cases where you purchase a Paid Product and an account is required to make such purchase, we will associate your account with information about your purchase to be able to administrate your purchases, provide you with according support, and allow and revoke your access to the Paid Product.
+Our legal basis for this processing this data is Art. 6 (1)(b) GDPR.
+Communications
+Depending on the way you are communicating with us, we may use your name, email address, telephone number, and the content of your previous correspondence to respond to you and provide assistance.
+Our legal basis for this processing is Art. 6 (1)(b) or (f) GDPR. As a public-facing company, we have a legitimate interest in being able to receive, process, and respond to enquiries.
+Transactional emails
+Provided you have not opted out from receiving transactional emails from us, we will use your email address to send you emails about relevant developments on the Service concerning for example, your network, new features, publications, projects, updates from the Q&A section, and emails regarding your professional career.
+You can opt out from receiving transactional emails at any time by clicking the "unsubscribe" link within an email or by visiting your account settings.
+Legal basis for this processing is Art. 6 (1)(b) GDPR.
+Sponsored emails
+Where you have provided your prior consent to receiving sponsored emails, we will use your email address to send you such emails. Where legally allowed, we will also use your email address to send you sponsored emails without your prior consent.
+In any case, you can opt out from receiving sponsored emails at any time by clicking the "unsubscribe" link within an email or visiting the " email settings" in your account.
+Our legal basis for this processing is Art. 6 (1)(a) or (f) GDPR. Whenever we rely on our legitimate interest to process your email address for sending sponsored emails, we do so as it is in our best interest to make the Service as helpful and meaningful to you as possible, which may also mean that third-party content will be taken into consideration. In addition, these email campaigns help us in monetizing our Service, so we can keep offering it to you.
+Offer Members internal activity insights
+Your interaction with and interest in other Members’ work is as valuable to them as it is to you. Therefore, we process information about reads of your work and your interaction with other Members' work (e.g. publication information, full texts, questions, answers). We use this information to provide Members with insights about the consumption of their work. For example we might show read statistics on publication and author levels that might contain information about e.g. the number of reads in a given timeframe, the countries and institutions the readers were affiliated with, or, subject to both Members’ privacy settings, information about readers’ ResearchGate accounts. Where Members’ privacy settings allow more than anonymous statistics to be provided, the additional level of detail allows Members to get into contact with readers of their work.
+Our legal basis for this processing is Art. 6 (1)(b) or (f) GDPR. Where we rely on our legitimate interest to offer these internal activity insights, we believe our aim to provide you and fellow ResearchGate Members with statistics, and, where applicable, additional details about interactions, does not conflict with your expectations, interest and rights. The described data processing, which is limited, is appropriate to achieve the desired objective of helping Members understand how their work is consumed.
+Offer Members external activity insights
+Where Members choose to benefit from receiving external activity insights, we might provide them with additional information such as consumption, mentions, news coverage etc. relating to their profile and work on the Service. To do so, we may associate aggregated and anonymous information we gather from outside ResearchGate with your work, to provide information about how Users found your publicly available work on ResearchGate, and what has referred them to it (e.g. which search engine). We might also offer features that provide information about instances where you and/or your publicly available work on the Service are mentioned on third-party websites, platforms, or services. For example, when your work is mentioned on social media or other external platforms/websites/blogs, we might gather these mentions, potentially including surrounding context, and enrich insights about your work with them. We might directly show this third-party content to you by displaying or embedding it in our Service, or providing references such as links to the content. We might use the help of external, third parties to achieve these purposes. Where such third parties are processing personal data, they are described in Section Third party services for analytics, measurement and ad delivery.
+Our legal basis for this processing is Art. 6 (1)(b) GDPR.
+Offer Members tailored content
+Using our recommendation technology, we process your personal data or infer information in order to provide the Service in a way that is tailored to your interests. This enables us to customize the features and offerings ResearchGate provides to you through the Service. For example, we provide dynamic web pages that are individually adapted to you. We may present content recommendations such as research items that are suggested for you and/or recommendations regarding other individuals, such as researchers to follow or connect with, or related researchers. In the same way that you benefit from content and individuals recommended to you, you and your content might be recommended to other Members and therefore might appear in their experience, for example in their home feed. We derive learnings from Members’ interactions with tailored content and suggestions and subsequently take them into account to improve any further offerings of tailored content.
+Our legal basis for this processing is Art. 6 (1)(b) or (f) GDPR. We have a legitimate interest in providing the best user experience based on the individual needs. This processing does not conflict with your interests as it corresponds with a person’s reasonable expectations when signing up for an account. The processing has no negative impact for our Members but is in their interests as it allows ResearchGate to provide them a tailored service.
+Offer Members tailored advertising content and relevant jobs
+As a Member, we aim to offer you advertising content that is most relevant to you. In this context, we use, whether separately or combined, the personal data you provide, we collect, or we infer from your use of the Service and the Internet and also contextual information of the site you are currently visiting. This enables us to display advertisements that best match your particular interests, and job suggestions that are relevant to your scientific field, experience and research. For further information about advertisements on the Service, please refer to Section 6 Advertisements on ResearchGate below.
+Our legal basis for this processing is Art. 6 (1)(f) GDPR. Advertising is a ubiquitous part of the Internet, but we believe that advertising, when done well, is a good thing. We aim to display the most relevant and most helpful advertisements to you. To be able to do this, we must take your interests, your journey, and some of your personal data into account. Without this processing, the advertisements we would be able to disseminate would not be different from random advertisements you can see everywhere in the Internet. We take great care in choosing the right advertising partners and limiting the personal data we process. The personal data that we process for this purpose will not be shared with any third party except our technical service provider (see Section 7Third party services), and will only support our purposes. Given that we limit the data processed, do not share it with other third parties, and process your personal data to display only relevant advertisements to you, we believe that our legitimate interest to monetize our platform and therefore continue to provide you with the Service outweighs. We believe our Service is a service to researchers, research, and science as a whole. Among other things, we make worldwide collaboration possible, and facilitate the solving of important scientific questions. Our mission is an important one. But this mission must be financed.
+Offer Visitors tailored advertising content and jobs
+As a Visitor, we also aim to offer you advertising content that is most relevant to you. In the case of Visitors, this means that the third parties delivering advertisements may take into account the context of the current site you are visiting. For further information about advertisements on the Service, please refer to Section 6 Advertisements on ResearchGate below.
+Our legal basis for this processing is Art. 6 (1)(f) GDPR and where applicable Art. 6 (1)(a) GDPR. Because some parts of our Service are available to everyone, even those who don’t have an account with us, we believe that wherever we haven’t asked you for your consent, the data processing conducted is of such limited effect on you, that our interest to monetize the platform and therefore continue to provide the Service also to non- Members, is legitimate.
+Candidate search
+A limited amount of your profile information (including only some information from the overview and research tabs) will be visible for recruiters with a Recruiter Account on the Service. If the information on your profile matches the search criteria entered by a recruiter in our candidate search feature, this limited version of your profile may show up in their search results. Recruiters may choose to contact you through the messaging functionality provided within the feature. Your inclusion in candidate search, including being contacted by recruiters, is fully under your control. You can choose to block specific recruiters, or opt out from being included in candidate search and contacted by any recruiters by changing your privacy settings at any time.
+Legal basis for this processing is Art. 6 (1)(b) GDPR.
+Ensure the security of your personal data
+We process your personal data in order to avoid its accidental or unlawful destruction, as well as its loss, alteration, or unauthorized disclosure. For example, we process the number of profile pages you and others view so as to detect and prevent data harvesting. Likewise, we truncate the last octet of your IP address to prevent you from being identified.
+Our legal basis for this processing is Art. 6 (1)(c) and (f) GDPR. We are legally obliged to secure data from unauthorized loss and alteration and it is also in our mutual interest to ensure data security. As this primarily serves the purpose of protecting your data there are no overriding interests on your part.
+Generate statistics
+We use your personal data to generate statistics which pertain to reading/search behavior and achievements. We also generate statistics for internal purposes in order to constantly improve the Service and its features. We also conduct research and development to maintain quality and improve our Service and the User experience. We might also share research results with scientific bodies for science studies and related topics. In none of these cases, we will share any personal data of Users.
+Our legal basis for this processing is Art. 6 (1)(f) GDPR. We have a legitimate interest to assess and evaluate the traffic on our site to improve our Service. Such improvement is also in the interest of our Users as it allows them to always benefit from the best Service we can offer.
+4. How we use relevant publicly available data
+We also process personal data relating to Authors that is publicly available and relevant for our Service.
+We may obtain a variety of information about Authors from publicly available sources, such as information regarding previous research published, the publication itself (including personal data too) and other functions or references of an Author related to a publication. We may also process information related to an Author, to create a record of their body of scientific contributions, or that might help understand professional connections between Authors and Members. Where an Author's scientific work was publicly or privately funded, we may also process this publicly available information.
+When we collect publicly available materials we do not have a way to ensure that personal data in such materials has been processed in accordance with the applicable laws. However, if you notify us that your personal data contained in such materials is inaccurate or has been processed in violation of applicable data protection laws, we may delete it upon verification of your identity.
+The public data processed may be associated with an account when an Author chooses to become a Member.
+Our legal basis for this processing is Art. 6 (1)(f) GDPR. The data processed is publicly available data. Also, the data processed has to be processed to provide a correct and complete scientific picture. Our legitimate interest is to provide a comprehensive and accurate repository of scientific work, contributions and success. Without processing additional public data, we could not achieve these aims. Furthermore, since we offer the possibility to connect this data with an account, we provide Members a convenient way to establish an account that is as complete as possible, without the effort of manually adding the information themselves.
+5. Information we process when using technologies like cookies and pixels
+We and service providers acting on our behalf store log files and use tracking technologies such as cookies, web beacons, tracking pixels, and local shared objects, also known as flash cookies, to collect information relating to you and your use of the Service.
+Basics
+"Cookies" are small files that enable us to store and collect specific information related to you and your use of the Service on your computer or other end devices. They help us to analyze the number of people who use the Service, usage frequency, User behavior and advertising effectiveness, to increase security and to tailor our Service and advertisements to your needs and preferences.
+This website uses so-called "session cookies" which after your session on the website session ends, will automatically be deleted.
+This website also uses "persistent cookies" to record information about repeat Users of the Service. Persistent cookies are designed to help us continually improve the products and services we offer you and to ensure the quality of our services. "Persistent cookies" remain for a certain pre-defined period of time and are recognized by us when you return to the Service (or one of our partner sites).
+You can edit the settings of your browser to prevent cookies from being stored, to limit the storage of cookies to certain websites, or such that your browser informs you every time a cookie is sent. You can also delete cookies at any time. However, please note that if cookies are deactivated you will not be able to take advantage of some of ResearchGate’s features. For specific help on how to delete Cookies with the help of your browser, please consult respective help sections, such as Google Chrome, Mozilla Firefox or Safari.
+Cookie table for ResearchGate
+ResearchGate use cookies for various purposes, but cookies primarily help us provide, protect and improve our products and services, tailor advertising and content, and better understand the use of our services. The following table will provide you with information on cookies that ResearchGate is placing and using, their respective retention period and purpose.
+__cfduid
+Cloudflare (see sec. Cloudflare)
+This cookie helps Cloudflare detect malicious visitors to our website and minimizes blocking of legitimate Users. It may be placed on your device to identify individual clients behind a shared IP address and apply security settings on a per-client basis.
+30 days
+__cfruid
+Cloudflare
+This cookie relates to rate limiting policies. It is used by a rate limiting feature with network address translation support enabled to distinguish individual users behind a single IP. Using this allows to control the rate of requests to our website.
+30 minutes
+cf_clearance
+Cloudflare
+When a Cloudflare captcha or Javascript challenge is solved such as for a Firewall Rule or IP Access Rule, a cf_clearance cookie is set in the client browser.
+30 minutes
+__cf_bm
+Cloudflare
+This cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption. This encrypted file contains Cloudflare’s proprietary bot score and helps manage incoming traffic that matches specific criteria.
+30 minutes
+did
+ResearchGate
+This is a random unique identifier.
+One year
+pl
+ResearchGate
+This is a random unique identifier.
+One year
+ptc
+ResearchGate
+Permanent Tracking
+Two years
+sid
+ResearchGate
+(Login) Session ID
+One year
+ciiir
+ResearchGate
+This cookie classifies whether you are interested in recruiting.
+One year
+cili
+ResearchGate
+This cookie marks the user as logged-in. It is created on every successful log in and refreshed on every subsequent successful log in.
+One year
+cirgu
+ResearchGate
+This cookie tells us, whether you are a ResearchGate User with an account at ResearchGate.
+One year
+SKpbjs-id5id
+SKpbjs-id5id_last
+SKpbjs_unifiedid
+SKpbjs-unifiedid_last
+Prebid
+Where applicable, these cookies enable the technology Prebid to work, to assign an identifier to you and to participate in so- called header bidding for disseminating advertisements.
+Three months
+_gads
+Google Ad Manager
+This cookie is used to target advertising for users and publishers.
+Two years
+_ga
+Google Analytics
+Used to distinguish users.
+Two years
+_gid
+Google Analytics
+Used to distinguish users.
+One day
+_gat,
+_gat_UA
+Google Analytics
+Used to throttle request rate.
+One minute
+_cmpBlockedVendorshash,
+_cmpNoniabvendorshash,
+_cmprepromptoptions,
+euconsent,
+eupubconsent,
+googlepersonalisation,
+noniabvendorconsent
+Quantcast consent modal
+These cookies will remember that you have maybe seen, interacted with, might have applied settings and store your consent for the purposes of the consent modal.
+One year and 25 days
+Other technology
+In addition to cookies, this website uses so-called pixels, web beacons, clear GIFs, and other similar mechanisms ("Pixels"). A Pixel is an image file or link to an image file added to the website code but not sent to your end device. Pixels are largely used for the same reasons as cookies, i.e. to analyze the number of people who use our Service or, if the User's email program allows HTML, to determine whether and when an email was opened. Pixels help us to check and optimize the effectiveness of our Service and offers as well as advertising campaigns served on ResearchGate. Pixels do not provide us with personal data. Pixels are usually used in conjunction with cookies. If you have deactivated the use of cookies in your browser, then Pixels will only report an anonymous website visit.
+We also use Pixel-based and cookie-based conversion tracking technologies to, for example, measure the success of advertising campaigns served on the Service. To this end we use technologies provided by Google (see below SectionGoogle Services).
+6. Advertisements on ResearchGate
+We display advertisements on our Service so we can continue to offer many of our features for free. We generate revenue by disseminating advertisements. We allow selected partners to advertise their products, content, jobs and more, on our Service.
+Basics
+When advertisers or ad networks place advertisements on our Service, they may collect or we may share the following types of information from within our Service:
+performance data (such as the number of clicks on an advertisement);
+aggregated and/or de-identified information about you and other Users collectively that is not intended to specifically identify you (such as Users who are located in Berlin);
+certain technical information (for example, IP addresses, cookieIDs, non-persistent device identifiers such as Identifiers for Advertising (IDFAs); and
+other contextual data about our dissemination and your potential perception of advertisements.
+Advertisers or ad networks may collect this information through the use of tracking technologies like browser cookies and web beacons (see explanations above), and they may use a single tracking technology or multiple tracking technologies at the same time.
+The information collected may be used to:
+measure how effective advertisements are;
+offer you targeted advertising in order to personalize your experience by showing you advertisements that are more relevant to you; and/or
+undertake web analytics to analyze traffic and other User activity to improve your experience.
+After clicking on a third-party advertisement, you may no longer be on a site hosted by ResearchGate. ResearchGate is not responsible for any third party, or its affiliates or agents, failing to use your personal data in accordance with such third party's privacy policy, or any contractual or other legal obligations to which such third party, its affiliates or agents, may be subject.
+Logged-in experience
+The advertising content shown to logged-in Members is served by ResearchGate itself using the help of third party technology providers, such as Google Analytics, Google Tag Manager and GoogleDV 360. Information on those service providers can be found at Section 7 Third-party services.
+In the case of these advertisements, ResearchGate has a direct relationship with the advertiser. We take great care when choosing such advertising partners. We allow them to target you based on pre-defined segments of which you may be a part. These segments are created by ResearchGate and may take into consideration your profile information and/or contextual information. For example, a segment might take into account your skills, disciplines, career level, current location, or what page on the Service you are currently visiting. We may also infer data such as gender or age group (for example 20-35 male) to assign you to a segment. An example of a segment that an advertising partner could target is: "Scientist, Biotechnology, EU, on a publication page containing a publication about a virus." Targeting this segment would mean that only Members who are part of this segment will see that advertiser’s advertisement on the Service.
+By using this information and these segments, we and our advertising partners are able to present relevant advertisements to you. We will take your previous interactions with advertisements into account when determining whether to present you with subsequent advertisements and in subsequent segmentation efforts. This is another way that we try to avoid providing you with advertisements that are not of interest to you.
+ResearchGate might also re-target you with advertisements of our advertising partners on third-party platforms. For this re-targeting, we don’t share any of your personal data with our advertising partners. Rather, we provide Google DV 360 (see below) with an anonymized (i.e. hashed) value of your ResearchGate cookie ID. Google DV 360 might have the same hash value already in its systems, received from a third-party platform. Whenever this is the case, we could present you with an advertisement from one of our advertising partners on a third-party platform.
+You can opt out from receiving cookie-based tailored advertisements on the Service and retargeting at any time, by clicking here. Note that this opt out will place a cookie on your device so we can remember your choice, which means if you delete your cookies at any point in time, you would have to opt out again.
+Please also note that opting out from ResearchGate cookie-based tailored advertising will not have the effect of disabling advertisements completely. For the delivery of advertisements, we will still take into account the context of the page you are currently visiting and personalize advertisements based on information other than cookie-based information.
+Information about the respective cookies we are using for ResearchGate served advertisements can be found in the cookie table above.
+Logged-out experience
+A great amount of information, particularly publication pages and the Q&A section of our Service, are available also for Visitors. These parts of our Service are also free for everyone. As a result, logged-out Visitors will find advertisements there.
+Primarily, ResearchGate enables third-party networks and platforms with which we have a business relationship to disseminate advertisements on the Service.
+For each of those third parties, their technology, data processing and purposes, we may ask you for your explicit consent. We do so with the help of our consent modal. Here’s how to navigate it:
+Clicking "Agree" has the effect of providing consent for all data processing and according partners.
+Under "More options", you will find a list of data processing purpose-stacks. By clicking on these, you can find out what each stack specifically consists of, according legal descriptions and a corresponding list of partners that process data under this purpose stack. You can choose to allow the stack or just parts of the stack. If you prefer to not allow a stack or specific purposes, you don't have to do anything.
+If you don’t want to provide any consent, you just have to click "Agree to selected", since data processing that requires prior consent is default "OFF".
+Any settings you made will be stored when you click "Agree to selected".
+Clicking "Agree to all" has the effect of explaining consent for all data processing and according partners.
+"Additional links" will refer you to this Privacy Policy.
+Under "More options" – "Partners" you will find a list of partners, their purposes and respective descriptions, as well as links pointing to their privacy policies. Here you can make specific choices regarding each partner. Some personal data is processed without your prior consent, but you have the right to object.
+Under "More options" – "Legitimate interest" you will find a list of "Legitimate interest purposes" and "Legitimate interest vendors". When you unfold the legitimate interest purposes, the legal description and the partner relying on legitimate interest for this purpose is provided. When you unfold the description of a specific partner, you can also find out for which purposes, the specific partner relies on Legitimate interest. Where processing of personal data is being executed without your prior approval but with the legal basis "Legitimate Interest", you have the right to object. Under "More options" – "Legitimate interest", you can explain your objection for each purpose and each partner, but you can also click "Object all".
+Most important for you: unless you granted consent by clicking "Agree" in our consent modal, our partners will only be able to process very limited personal data and only if they can claim legitimate interest to do so.
+At any time, you can withdraw any consent given or modify your consent. You can do so by re-prompting the consent modal by clicking here.
+Please note: even if you have not provided your consent, you will still be presented with advertisements, but such advertisements will not be tailored to you.
+In addition to opting out from personalized ads delivered to you with the help of Google (see below in sec. 7), you can also opt-out from being presented with any ads served to you using Amazon’s or OpenWrap’s header-bidding technology for your logged-out visit of our Service, by clicking here.
+7. Third-party services
+Google Services
+Google Analytics: We use Google Analytics to evaluate the usage behavior on our Service. Google Analytics is a web analysis service provided by Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland. For this web analysis service, Google uses cookies on our website to systematically evaluate the interactions of Users on our Service. The information generated by the cookie about the use of our Service by the user (e.g. truncated IP address, website currently visited, referrer, duration of stay, and frequency of the call of the website) is transferred to a Google server in Ireland. In addition, a transfer of the data to another Google server in the USA is possible. Google will use this information for the purpose of evaluating your use of the Service, compiling reports on website activity for us, and providing other services relating to website activity and Internet usage. The processed data can be used to create pseudonymous user profiles of Users. The data is deleted after 26 months. By activating IP anonymization on our website, your IP address is truncated before it is forwarded within the member states of the European Union or other states party to the Agreement on the European Economic Area. Only in exceptional cases will your full IP address be forwarded to a Google server in Ireland and possibly the USA and shortened there. Google will not combine your IP address collected via Google Analytics with other data that Google holds.
+To opt out from Google Analytics, please click here. If you delete your cookies, you have to click this link again.
+Our use of Google Analytics is also administered by the consent modal as described at Section 6 Advertisements on ResearchGate.
+In addition, each of the following services is provided by Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland.
+You can opt out from the following Google services using this link:
+Google Tag Manager is a solution that allows us to manage website tags through one interface. The Tag Manager itself is a cookie-less domain and does not collect personal data. The tool triggers other tags that may collect personal data. Google Tag Manager does not access this data.
+We use Google DV 360, including the tool "Display & Video" to be able to recognize you on third-party websites. For this purpose, the Google Display & Video 360 will place cookies on your device which will enable recognition of you in the Google advertising network. We are subsequently able to present you advertisements on the basis of your surfing behavior on third-party platforms. This service also enables us to evaluate delivered advertisements and optimize them.
+Google Ad Manager enables the control and optimization of advertisements on our Service. It also helps to create campaign performance reports and prevents advertisements being displayed to you multiple times. Google Ad Manager also uses cookies for this purpose.
+To opt-out from receiving personalized ads delivered to you by Google on our Service, please click here.
+Cloudflare
+We also use the services of Cloudflare, Inc. (101 Townsend St., San Francisco, CA 94107, USA). Cloudflare helps us to provide our Service to our Users in the fastest way by "copying" our Service and putting it on servers that are geographically as close as possible to your current location. Cloudflare distributes the server load to those servers that make the most sense for your request. Additionally, Cloudflare blocks threats and abusive bots and crawlers that have a negative impact on our bandwidth and server resources. Cloudflare also provides an "I am under attack"- mode that requests Users to solve a task before they can visit the site. Through Cloudflare, our Service is more powerful and less vulnerable. For these purposes Cloudflare uses cookies (see Cookie table for ResearchGate) and processes data of which your IP address could be considered personal. Cloudflare might store this data in the US. More information about Cloudflare can be found here.
+Intercom
+In some parts of the Service you can get in direct and potentially live contact with us to leave your questions and comments and get close to real-time feedback and help. For this purpose, we are using the service “Intercom”, a live chat and feedback tool provided by R&D Unlimited Company, 2nd Floor, Stephen Court, 18-21 Saint Stephen's Green, Dublin, Ireland. Where Intercom is integrated to a page, you will find a small icon on the bottom right of the page. For providing us with your data and feedback, Intercom will process the data you provide and pass it on to us. This may include a link to your ResearchGate account, your email address and any additional personal data you choose to share. To enable the tool to work, it necessarily needs to process some of your data, such as your IP- address and information about the browser you are using. For more information about Intercom’s data processing, please refer to their Privacy Policy.
+Twitter for Websites
+In accordance with what we described in Section 3, subsection “Offer members external activity insights”, we may embed Tweets in our Service. We do this with the help of “Twitter for Websites”, a tool offered by Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA). As a default, the external Twitter content in our Service will not be loaded unless you explicitly allow it to be loaded. You can change your mind about whether to allow this at any time. When you allow “Tweets” to be loaded, Twitter will process data about you and may process this data outside of the EU. For example, Twitter will process information about what page you are currently on, your IP- address, browser type and operating system. Generally, Twitter will use this information to offer personalized suggestions and show personalized advertisements to you. We implement “Twitter for Websites” in such a manner that information from our Services shall not be used by Twitter for personalization. For more information about Twitter’s data processing, please refer to Twitter’s privacy policy or more specifically to Twitter’s privacy policy regarding “Twitter for Websites” where you will also find information about Twitter-specific privacy controls. For the purposes described and only if you allow Tweets to be loaded, Twitter will place cookies on your device. For more information, please see their Cookie Policy.
+Zendesk
+For email addresses intended to receive general, external inquiries (such as press inquires, support inquiries), we may use the services of “Zendesk”. We also use Zendesk to process incoming inquiries that have been sent to us by using our contact forms. Zendesk is a platform that helps organizations understand,structure and prioritize incoming inquiries of users, customers or otherwise interested parties. Zendesk is operated by Zendesk Inc., a Delaware corporation, with its address at 1019 Market Street, San Francisco, CA 94103, USA. Zendesk aggregates data already known to us, data about earlier communications with you and data supporting your current inquiry. This data may also be allocated to your Member account if you have one.
+We have contractually agreed with Zendesk that personal data will be hosted in the EU. Still, Zendesk is a US corporation and reserves the right to process personal data in the US where this is required for support or service purposes required by us. Where personal data is processed outside of the EU, we concluded Standard Contractual Clauses in accordance with Art. 46 GDPR with Zendesk. Furthermore, Zendesk is one of the few companies that have Binding Corporate Rules rolled out to their corporation which were approved by the European Commission in accordance with Art. 47 GDPR. You can find these here. For further information on Zendesk’s data processing, please also refer to their Privacy Policy.
+8. Recipients and safeguards
+Recipients
+ResearchGate does not sell any of your personal data.
+The personal data that ResearchGate collects from you and that you provide to ResearchGate is processed in Canada and stored on servers in Canada. Canada is one of the few countries for which the EU has adopted an adequacy decision in which it decided that Canada ensures an adequate level of protection according to EU standards. You can review the Commission Decision here.
+Some of your personal data is accessible to other Users of our platform who may, for example, visit your publication pages or profile.
+Your personal data may also be transferred to third parties as described in this Privacy Policy and where applicable to those third parties listed in our consent modal. These parties might be advertisers or companies that help us disseminate advertisements, measure the performance of our advertisements and/or analyze your use of the Service. These third parties will not receive data that directly personally identifies you. The data shared is limited to identifiers such as IP addresses and cookie IDs. Your name, email address, and other directly identifying data will only be shared with third parties if you explicitly allow us to share this data.
+We may also disclose personal data in response to legal process or when the law requires it (for example, in response to a court order) or, to the extent permitted by applicable law, to protect the rights, property, or safety of ResearchGate, the Service, Users of the Service (including you), and others.
+We may use third party service providers, in particular for technical and business services, tax advisors and legal counsel. These service providers receive personal data solely for the performance of their services for us on our behalf. They are contractually obliged not to use personal data for other purposes.
+Safeguards
+Some of the third parties with whom your personal data will be shared are located outside of the European Economic Area, in countries whose data protection laws may not be as extensive as those which apply to us.
+If we transfer your personal data to countries outside of the European Economic Area or which do not offer adequate and similar protection, we will ensure that we do this in accordance with applicable data protection regulations (for example, by putting in place an appropriate data transfer instrument such as the European Standard Contractual Clauses).
+
+We will do this with a view to ensuring that the level of protection applied to the processing of your personal data in these countries is similar to that applied within the European Economic Area.
+9. Closing your account and retention of personal data
+For Members, we generally store their personal data as long as their account is active.
+If you have created an account, you can close it yourself in your ‘Account Settings’. If you request that we close your account for you, we might ask for proof of identity before doing so.
+We may also close inactive accounts or accounts that are used in violation of our Terms of Service or any applicable law.
+Immediately after closing an account, it will not be accessible/visible anymore. Please note that closing an account is irreversible.
+For Members, we will retain personal data from closed or inactive accounts to the extent and as long as it is necessary and relevant for our operations and/or to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service, and/or take other actions otherwise permitted by law.
+In general, personal data from closed or inactive accounts will be deleted or anonymized from our system backups one year after the account is closed or deactivated.
+We only keep personal data for the time strictly necessary in order to enable the use of our Service and/or to fulfil the purposes identified above, and/or to comply with any legal or regulatory obligations. In all other cases, we delete your personal data with the exception of such data that we are required to retain for the purpose of contractual or statutory (e.g., taxation or commercial law) retention periods. In particular, we keep payment and invoice related information or support inquiries to the extent required by trade and tax law for the statutory retention periods (ten, respectively six years).
+10. Automated decision-making
+We do not engage in automated individual decision-making, including profiling (according to Art. 22 (1) and (4) GDPR).
+11. Data subject rights
+In addition to your rights to withdraw any consent you may have granted or exercise any opt out option we provide, you may be entitled to exercise some or all of the following rights:
+Right of access by the data subject in accordance with Art. 15 GDPR. In particular, you can obtain information about the purposes of processing, categories of personal data, categories of recipients to whom your data has been or will be disclosed, planned storage period, and origin of your data if it was not collected directly from you.
+Right to correct inaccurate personal data or complete incomplete data according to Art. 16 GDPR.
+Right to obtain deletion of your personal data stored with us in accordance with Art. 17 GDPR, subject to legal or contractual retention periods or other legal obligations or rights which must be observed.
+Right to restrict the processing of your personal data in accordance with Art. 18 GDPR in the event that: you contest the accuracy of the data; the processing is unlawful but you oppose its deletion; we no longer need the personal data for the purposes of the processing but you need it for your assertion; it may be relevant to the exercise or defense of legal claims; or you have lodged an objection to the processing in accordance with Art. 21 GDPR.
+Right to data portability in accordance with Art. 20 GDPR, to receive the stored personal data concerning you in a structured, commonly used, and machine-readable format or request the transfer of this data to another responsible party.
+Right to lodge a complaint with your competent supervisory authority. Your competent authority is the authority at your usual place of residence or the authority competent for us (see below at section 12).
+You have the right to object to all types of processing that are based on Art. 6(1)(f) GDPR (legitimate interests), based on grounds relating to your particular situation, Art. 21(1) GDPR. To the extent we process your personal data pursuant to Art. 6(1)(f) GDPR for direct marketing purposes, you can object to such processing at any time without giving a particular reason.
+You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding data processing by contacting us here.
+12. Contact information
+If you have any questions or concerns about this Privacy Policy, please email our Data Protection Officer at privacy@researchgate.net, contact us here, or send a letter to:
+Data Protection Officer
+ResearchGate GmbH
+Chausseestr. 20
+10115 Berlin, Germany
+You can find additional information about security and privacy in our Help Center here.
