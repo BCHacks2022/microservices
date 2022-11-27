@@ -1,3 +1,6 @@
+# Get the models before running
+# https://drive.google.com/file/d/19B1fGVMn9-pSBemAbsl62L9tHawrjVe5/view?usp=drivesdk
+# https://drive.google.com/file/d/1-1g6ME8LA8FR2pPbgZ2md5wTr7BjkpM7/view?usp=drivesdk
 from fastapi import FastAPI, File, UploadFile
 from PyPDF2 import PdfFileReader
 import io
