@@ -50,9 +50,9 @@ def analyzePDF(request_object_content):
 async def contract(file: UploadFile):
     request_object_content = await file.read()
     numberOfPages, text = analyzePDF(request_object_content)
-    print("landlord" in " ".join(text))
+    print(text)
+    print("text")
     warnings = [checker(" ".join(text)) for checker in checkers]
-    print(warnings)
     return [warning for warning in warnings if warning != "Included"]
 
 
